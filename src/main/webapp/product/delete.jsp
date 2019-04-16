@@ -34,6 +34,7 @@
             </tr>
             <tr>
                 <td><input type="submit" value="Delete Product"></td>
+                <td><a href="/products">Back to customer list</a></td>
             </tr>
         </table>
     </fieldset>
